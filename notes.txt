@@ -1,0 +1,5 @@
+Check out https://github.com/joxeankoret/diaphora
+
+It is awesome for binary diffing. I just used it to sanity check the crack
+for CrossOver 15. I don't actually use CrossOver. The winewrapper*.so files
+belong to CrossOver 15.
